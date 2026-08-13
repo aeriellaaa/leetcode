@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aeriellaaa/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aeriellaaa/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/aeriellaaa/leetcode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/aeriellaaa/leetcode/tree/master/0086-partition-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aeriellaaa/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aeriellaaa/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aeriellaaa/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/aeriellaaa/leetcode/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aeriellaaa/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aeriellaaa/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aeriellaaa/leetcode/tree/master/0876-middle-of-the-linked-list) |
