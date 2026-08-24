@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aeriellaaa/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/aeriellaaa/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aeriellaaa/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/aeriellaaa/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/aeriellaaa/leetcode/tree/master/0382-linked-list-random-node) |
+## String
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/aeriellaaa/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/aeriellaaa/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
