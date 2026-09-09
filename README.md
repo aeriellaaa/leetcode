@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aeriellaaa/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/aeriellaaa/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/aeriellaaa/leetcode/tree/master/0075-sort-colors) |
+| [0200-number-of-islands](https://github.com/aeriellaaa/leetcode/tree/master/0200-number-of-islands) |
 | [0877-stone-game](https://github.com/aeriellaaa/leetcode/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -94,17 +95,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aeriellaaa/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aeriellaaa/leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aeriellaaa/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aeriellaaa/leetcode/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aeriellaaa/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aeriellaaa/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aeriellaaa/leetcode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aeriellaaa/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
