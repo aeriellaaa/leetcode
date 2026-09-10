@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aeriellaaa/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/aeriellaaa/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/aeriellaaa/leetcode/tree/master/0075-sort-colors) |
+| [0198-house-robber](https://github.com/aeriellaaa/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aeriellaaa/leetcode/tree/master/0200-number-of-islands) |
 | [0877-stone-game](https://github.com/aeriellaaa/leetcode/tree/master/0877-stone-game) |
 ## Math
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/aeriellaaa/leetcode/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/aeriellaaa/leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
