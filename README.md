@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/aeriellaaa/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/aeriellaaa/leetcode/tree/master/0382-linked-list-random-node) |
 | [0877-stone-game](https://github.com/aeriellaaa/leetcode/tree/master/0877-stone-game) |
 ## Dynamic Programming
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aeriellaaa/leetcode/tree/master/0200-number-of-islands) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/aeriellaaa/leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
